@@ -1,6 +1,3 @@
-#include <stdio.h>
-
-int main() {
-    printf("Hello, UFE\n");
-    return 0;
-}
+git status
+git add .
+    git commit -m "1-r doloo honog: hello.c nemev - Hello, UFE hevlene"
